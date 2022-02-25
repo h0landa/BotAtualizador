@@ -61,7 +61,7 @@ class Ui_BotAtualizador(object):
 
         self.gridLayoutWidget_2 = QWidget(BotAtualizador)
         self.gridLayoutWidget_2.setObjectName(u"gridLayoutWidget_2")
-        self.gridLayoutWidget_2.setGeometry(QRect(10, 150, 289, 59))
+        self.gridLayoutWidget_2.setGeometry(QRect(10, 150, 301, 59))
         self.gridLayout_2 = QGridLayout(self.gridLayoutWidget_2)
         self.gridLayout_2.setObjectName(u"gridLayout_2")
         self.gridLayout_2.setContentsMargins(0, 0, 0, 0)
